@@ -182,8 +182,3 @@ mysql -u root -p < social_media_system.sql
 - Database: MySQL
 - Tool: MySQL Workbench
 
----
-
-## 👤 Author
-
-Likhith — https://github.com/YOUR-USERNAME
